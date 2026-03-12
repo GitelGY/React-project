@@ -17,5 +17,7 @@
 ## הרצה
 1. `npm install`
 2. `npm start`
+
+
 מפתחת הפרויקט: ©️  Gitty Goldberg (GittyB32@gmail.com)
 
